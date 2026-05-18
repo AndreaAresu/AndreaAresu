@@ -35,5 +35,5 @@ MMS, HuBERT, and more. `pip install asr-attack`.
 
 ### Reach out
 
-- LinkedIn: [andrea-aresu](www.linkedin.com/in/andrea-aresu-4b1483206)
+- LinkedIn: [andrea-aresu](https://www.linkedin.com/in/andrea-aresu-4b1483206/)
 - Email: aaresu01@gmail.com
