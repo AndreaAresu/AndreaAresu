@@ -22,7 +22,7 @@ Cagliari, Italy · Open to remote, and to relocation within Europe
 Upload a recording, get a searchable transcript. Whisper transcription off a job queue, semantic
 search over every transcript with pgvector, cached LLM summaries, and an MCP endpoint that hands
 the same retrieval to an assistant as three tools. The retrieval is graded by hand against a fixed
-query set rather than assumed: 15/15 top-3 hits landed in the right recording, 9/10 queries ranked
+query set: 15/15 top-3 hits landed in the right recording, 9/10 queries ranked
 the best passage first. Live demo, no signup.
 
 **[whatsapp-host-assistant](https://github.com/AndreaAresu/whatsapp-host-assistant)** — *Node.js · Claude · human-in-the-loop*
