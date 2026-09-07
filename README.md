@@ -7,7 +7,7 @@ Cagliari, Italy · Open to remote, and to relocation within Europe
 
 ### Currently
 
-- Building and shipping **LLM systems that run in production rather than in notebooks** — agents
+- Building and shipping **LLM systems that run in production: agents
   with tool calling, retrieval over real corpora, and the guardrails that decide when a model
   must not answer on its own.
 - First author on **SardinianVoxes**, on deep speech recognition for Sardinian, a low-resource
